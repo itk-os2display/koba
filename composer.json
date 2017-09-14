@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dist": {
     "url": "https://github.com/itk-os2display/koba",
-    "type": "vcs"
+    "type": "git"
   }
 }
