@@ -1,0 +1,8 @@
+{
+  "name": "itk/os2display-koba-integration",
+  "version": "1.0.0",
+  "dist": {
+    "url": "git@github.com:itk-os2display/koba.git",
+    "type": "vcs"
+  }
+}
