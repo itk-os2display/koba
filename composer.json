@@ -1,15 +1,5 @@
 {
   "name": "itk/os2display-koba-integration",
-  "version": "1.0.3",
-  "dist": {
-    "url": "https://github.com/itk-os2display/os2display-koba-integration/archive/v1.0.3.tar.gz",
-    "type": "tar"
-  },
-  "source": {
-    "url": "git@github.com:itk-os2display/os2display-koba-integration.git",
-    "type": "git",
-    "reference": "master"
-  },
   "autoload": {
     "psr-4": { "Itk\\KobaIntegrationBundle\\": "" }
   }
