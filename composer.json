@@ -1,8 +1,13 @@
 {
-  "name": "itk/os2display-koba-integration",
-  "version": "1.0.0",
-  "dist": {
-    "url": "https://github.com/itk-os2display/koba",
-    "type": "git"
+  "name": "itk-os2display/os2display-koba-integration",
+  "description": "Os2Display koba integration",
+  "type": "symfony-bundle",
+  "require": {
+    "os2display/core-bundle": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Itk\\KobaIntegrationBundle\\": ""
+    }
   }
 }
