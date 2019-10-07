@@ -1,8 +1,9 @@
 # itk-os2display/os2display-koba-integration CHANGELOG
 
-## 1.0.7
+## 1.1.0
 
 * Fixed compatibility issue with symfony 3.4.
+* Added tool that is removed from template-extension-bundle.
 
 ## 1.0.6
 
