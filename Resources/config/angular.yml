@@ -1,0 +1,14 @@
+assets:
+  css:
+    - bundles/itkkobaintegration/assets/build/itkkobaintegration.min.css
+
+modules:
+  kobaToolsModule:
+    files:
+      - bundles/itkkobaintegration/apps/kobaToolsModule/module.js
+      - bundles/itkkobaintegration/apps/kobaToolsModule/itk-koba-resource-picker.js
+
+apps:
+  ikApp:
+    dependencies:
+      - kobaToolsModule
