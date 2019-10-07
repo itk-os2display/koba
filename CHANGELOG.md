@@ -1,5 +1,9 @@
 # itk-os2display/os2display-koba-integration CHANGELOG
 
+## 1.1.1
+
+* Upgraded node modules.
+
 ## 1.1.0
 
 * Fixed compatibility issue with symfony 3.4.
