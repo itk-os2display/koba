@@ -1,6 +1,4 @@
 assets:
-  css:
-    - bundles/itkkobaintegration/assets/build/itkkobaintegration.min.css
   js_prod:
     - bundles/itkkobaintegration/assets/build/itkkobaintegration.min.js
 
