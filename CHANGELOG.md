@@ -1,5 +1,9 @@
 # itk-os2display/os2display-koba-integration CHANGELOG
 
+## 1.1.3
+
+* Removed injection of non-existing css file.
+
 ## 1.1.2
 
 * Fixed issue with koba resource picker.
